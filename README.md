@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sameer.
 - 👀 I’m interested in solving problems, music and sports.
-- 🌱 I’m currently learning Prometheus, Grafana and Karate.
+- 🌱 I’m currently learning Go.
 - 💞️ I’m looking to collaborate on any sort of problem solving.
 
 <!---
